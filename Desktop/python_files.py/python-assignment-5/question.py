@@ -120,7 +120,7 @@ output = """
 
 """
 print(output)
-name,password,balance,is_verified = 'nankpak','4444',2000,False
+name,password,balance,is_verified = 'nankpak','4444',2000,True
 command = input("Enter command to get start ").lower()
 user_name = input('enter your name ').lower()
 passw = input('enter your password ')
